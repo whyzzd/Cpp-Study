@@ -86,6 +86,7 @@
 - [Demo62](https://github.com/whyzzd/Cpp-Study/tree/master/demo62)(algorithm中其它几种算法)
 - [Demo63](https://github.com/whyzzd/Cpp-Study/tree/master/demo64)(accumulate、fill算法)
 - [Demo64](https://github.com/whyzzd/Cpp-Study/tree/master/demo64)(常用的集合算法)
+- [Demo65](https://github.com/whyzzd/Cpp-Study/tree/master/demo65)(q_global_static全局变量小例子，只需包含.h文件)
 
 以上的内容后面还会继续更新。。
 
